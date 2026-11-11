@@ -18,7 +18,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
     "apexcharts": "^3.35.5",
-    "axios": "^1.6.2",
+    "axios": "^1.20.0",
     "buffer": "^6.0.3",
     "formik": "^2.2.9",
     "framer-motion": "^7.3.6",
